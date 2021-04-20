@@ -4,7 +4,7 @@
       <q-toolbar>
 
         <q-toolbar-title>
-          Quasar App
+          Bannholzhof Webcam Archiv
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
